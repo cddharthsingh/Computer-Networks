@@ -1,4 +1,4 @@
-//Write a Program in C/ C++ for error detecting code sing CRC-CCITT (16 bit)
+//Write a Program in C/ C++ for error detecting code using CRC-CCITT (16 bit)
 
 #include<stdio.h> 
 #include<stdlib.h>
