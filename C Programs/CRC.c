@@ -38,7 +38,7 @@ int main()
     int i, input;
 
     printf("\n\nEnter Tramsmission Data: ");
-    scanf("%s",Tdata);
+    scanf("%s",&Tdata);
     lenTdata = strlen(Tdata);
     printf("Generator Polynomial is: %s",key);
 
